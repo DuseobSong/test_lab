@@ -1,0 +1,7 @@
+Header header
+uint8 radiation_type_left
+uint8 radiation_type_right
+float32 range_left
+float32 range_right
+uint8 camera_direction
+uint8 status
